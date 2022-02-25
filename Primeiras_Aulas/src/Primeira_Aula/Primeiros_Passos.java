@@ -1,6 +1,6 @@
-package aulas_ppo_java;
+package Primeira_Aula;
 
-public class Aulas_PPO_Java {
+public class Primeiros_Passos {
 
     public static void main(String[] args) {
         /*double valorInvestido = 1000;
@@ -12,10 +12,10 @@ public class Aulas_PPO_Java {
         }
         System.out.println("O valor total ao final de " + mes + " mês(es) será de " + valorInvestido);*/
         int a = 0;
-        if(a % 2 == 0){
+        if (a % 2 == 0) {
             System.out.println("É par");
-        } else{
+        } else {
             System.out.println("É impar");
         } //final ex
-    }    
+    }
 }
