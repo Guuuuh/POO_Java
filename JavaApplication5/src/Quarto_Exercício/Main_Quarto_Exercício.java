@@ -1,3 +1,7 @@
+/*4. Implemente um programa que, a partir de uma variável do tipo double, imprima
+“positivo” caso o valor da variável seja maior ou igual a zero, ou “negativo” caso
+o valor da variável seja menor que zero.*/
+
 package Quarto_Exercício;
 
 public class Main_Quarto_Exercício {

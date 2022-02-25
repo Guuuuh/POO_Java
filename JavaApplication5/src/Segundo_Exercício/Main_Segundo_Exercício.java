@@ -1,3 +1,5 @@
+/*2. Implemente um programa que converta um valor de U$ (dólar) para R$ (real).*/
+
 package Segundo_Exercício;
 
 public class Main_Segundo_Exercício {

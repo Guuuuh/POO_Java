@@ -1,3 +1,7 @@
+/*6. Implemente um programa que leia dois valores inteiros, A e B e troque os valores
+de maneira que A possua o valor de B e B possua o valor de A. Imprima o
+resultado na tela.*/
+
 package Sexto_Exercício;
 
 public class Main_Sexto_Exercício {
