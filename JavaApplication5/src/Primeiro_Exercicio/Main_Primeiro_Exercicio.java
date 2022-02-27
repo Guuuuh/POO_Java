@@ -1,8 +1,8 @@
 /*1. Implemente um programa que converta um valor de R$ (real) para U$ (dólar).*/
 
-package Primeiro_Exercício;
+package Primeiro_Exercicio;
 
-public class Main_Primeiro_Exercício {
+public class Main_Primeiro_Exercicio {
 
     public static void main(String[] args) {
 

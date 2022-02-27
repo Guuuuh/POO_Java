@@ -2,9 +2,9 @@
 de maneira que A possua o valor de B e B possua o valor de A. Imprima o
 resultado na tela.*/
 
-package Sexto_Exercício;
+package Sexto_Exercicio;
 
-public class Main_Sexto_Exercício {
+public class Main_Sexto_Exercicio {
 
     public static void main(String[] args) {
         int a = 5;

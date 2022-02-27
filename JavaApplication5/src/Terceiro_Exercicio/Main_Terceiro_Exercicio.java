@@ -1,9 +1,9 @@
 /*3. Implemente um programa que, a partir de uma variável do tipo int, imprima “par”
 caso o valor da variável seja par, ou “impar” caso o valor da variável seja ímpar.*/
 
-package Terceiro_Exercício;
+package Terceiro_Exercicio;
 
-public class Main_Terceiro_Exercício {
+public class Main_Terceiro_Exercicio {
 
     public static void main(String[] args) {
 

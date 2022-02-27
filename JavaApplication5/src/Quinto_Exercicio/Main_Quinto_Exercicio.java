@@ -1,11 +1,11 @@
 /*5. Implemente um programa que recebe como entrada uma temperatura em
 Fahrenheit e converta para Celsius.*/
 
-package Quinto_Exercício;
+package Quinto_Exercicio;
 
 import java.util.Scanner;
 
-public class Main_Quinto_Exercício {
+public class Main_Quinto_Exercicio {
 
     public static void main(String[] args) {
 
