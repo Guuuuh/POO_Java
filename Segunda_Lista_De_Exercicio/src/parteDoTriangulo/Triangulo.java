@@ -10,7 +10,7 @@ public class Triangulo {
 
     public int altura;
 
-    public int area;
+    public double area;
 
     public int perimetro;
 
@@ -21,17 +21,16 @@ public class Triangulo {
         this.altura = altura;
     }
 
-    public int toAreaTriangulo() {
+    public double toAreaTriangulo() {
         System.out.println("A Área do triâgunlo inserido é : ");
-        area = (base * altura) / 2;
+        area = (this.base * this.altura) / 2;
         return area;
     }
 
-    public int toPerimetroTriangulo() {
+    public int toPerimetroTriangulo(/* Usar o parametro quando algum valor for vir de fora da classe, como por exemplo o usuário inserir um valor */) {
         System.out.println("O Perímetro do triângulo inserido é: ");
-        perimetro = lado1 + base + lado2;
+        perimetro = this.lado1 + this.base + this.lado2;
         return perimetro;
 
     }
-
 }
